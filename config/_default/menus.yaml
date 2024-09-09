@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 955c7248-bbec-441a-89de-db0277feea43
+  name: pag
+  pageRef: /pages/p2
+  weight: 10
